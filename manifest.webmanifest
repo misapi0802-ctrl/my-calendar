@@ -1,0 +1,17 @@
+{
+  "name": "My Calendar ♡",
+  "short_name": "My Calendar",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF9FB",
+  "theme_color": "#D9B6BD",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
